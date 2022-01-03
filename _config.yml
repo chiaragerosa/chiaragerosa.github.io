@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Chiara-Gerosa-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,11 +99,11 @@ author:
   github           : 
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "chiar.ai"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "chiaragerosa"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
