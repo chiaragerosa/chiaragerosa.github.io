@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Chiara. I'm excited about the future and want to contribute to making that future amazing for as many beings as possible. 
 
-I'm currently a policy advisor focusing on the effect of AI on disinformation, as well as non-regulatory approaches to countering the spread of disinformation online. 
+I'm currently a policy advisor focusing on the benefits and risks of AI on disinformation, as well as non-regulatory approaches to countering the spread of disinformation online. 
 
 Prior to that, I worked on improving collaborations between science and policy actors to contribute to the development of evidence-based policies. 
 
