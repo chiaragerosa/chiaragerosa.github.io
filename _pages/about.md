@@ -14,7 +14,7 @@ I'm currently a policy advisor focusing on the benefits and risks of AI on disin
 
 Prior to that, I worked on improving collaborations between science and policy actors to contribute to the development of evidence-based policies. 
 
-Aside from policy, I'm interested in evolutionary psychology and like to think about social dynamics and human relationships.
+Aside from policy, I'm interested in evolutionary psychology and like to think about and discuss social dynamics and human relationships.
 
 I also enjoy cooking, swimming, boxing, writing up reflections and spending time dancing and exploring with loved ones. Recently, I've also picked up pole dance and mixing music.
 
