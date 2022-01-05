@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "How do numbers of female rebel group leaders affect leftist rebel groups’ use of one-sided violence in civil wars?"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/VNVC_essay
+excerpt: 'This is a 3000-word paper I wrote during my masters for a module on Violent and Non-violent Conflict. The guiding question was: how does ideology affect violence in civil wars?'
+date: 2021-01-13
+venue: 'University College London'
+paperurl: 'http://academicpages.github.io/files/VNVC_essay.pdf'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+**Abstract**
+Despite the frequent participation of women in non-state armed groups (NSAGs), few studies have explored how gender might influence violence during insurgencies. Our study aims to build on recent quantitative datasets on the participation of female combatants and leaders in NSAGs by providing a framework to explore the relationship between female leadership in lefist ideological groups and their use of one-sided violence in civil wars. Given women are more likely to enter leadership positions in leftist NSAGs, this paper purports that more female leaders mean lower numbers of civilian deaths in instances of one-sided violence in civil wars. Better understanding how female NSAG leadership affects violence in civil wars could enable policy makers to leverage gender for peace-building.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/VNVC_essay.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+# Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
