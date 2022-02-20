@@ -4,7 +4,7 @@ excerpt: "A record of pole tricks I learn. <br/><img src='/images/2022-02_pole.j
 collection: portfolio
 ---
 
-I started learning pole since January 2022. This is a space to record my progress.
+I started learning pole in January 2022. This is a space to record my progress.
 
 **February 2022** 
 
