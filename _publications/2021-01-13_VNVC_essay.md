@@ -2,7 +2,7 @@
 title: "How do numbers of female rebel group leaders affect leftist rebel groups’ use of one-sided violence in civil wars?"
 collection: publications
 permalink: /publications/2021-01-13_VNVC_essay
-excerpt: 'This is a 3000-word paper I wrote during my masters for a module on Violent and Non-Violent Conflict. The guiding question was: how does ideology affect violence in civil wars?'
+excerpt: 'This is a 3000-word paper I wrote during my masters for a module on Violent and Non-Violent Conflict. The guiding question was: "how does ideology affect violence in civil wars?". The objective of the exercise was to act as the initial stages of developing a framework which can be operationalised to other conflicts by conducting a literature review, developing a theoretical argument that allows for an empirical test and designing a feasible empirical research design to test the hypotheses.
 date: 2021-01-13
 venue: 'University College London'
 paperurl: '/files/VNVC_essay.pdf'
