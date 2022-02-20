@@ -1,5 +1,5 @@
 ---
-title: "The Threat of Bioterrorism [video]"
+title: "The Threat of Bioterrorism"
 collection: publications
 permalink: /publications/2021-01-13_bioterrorism_vlog
 excerpt: 'A video I created during my masters for a course on The Future of Conflict in a Digital Age. The task was to create a vlog addressing one of the concepts addressed in the course in 5-10 minutes.'
