@@ -1,7 +1,7 @@
 ---
 title: '60 Minutes on Longtermism'
 date: 2021-04-14
-permalink: /year-archive/2021/60-minutes-on-longtermism/
+permalink: /posts/2021/60-minutes-on-longtermism/
 tags:
   - ethics
   - EA
