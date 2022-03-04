@@ -1,14 +1,14 @@
 ---
 title: '60 Minutes on Longtermism'
 date: 2021-04-14
-permalink: /year-archive/60-minutes-on-longtermism
+permalink: /year-archive/2021/60-minutes-on-longtermism
 tags:
   - ethics
   - EA
   - longtermism
 ---
 
-Respond to only one of the prompts listed. Please limit yourself to only 60 minutes when completing this response.
+A short piece on longtermism I wrote for a job application in 2021. I was to respond to one of the prompts provided in no more than 60 minutes. My answer is below; this has not been edited since submitting the application. 
 
 **Chosen prompt: Some argue that longtermism is not possible because you cannot know enough about the long-term effects of your actions to act with confidence. What do you think about that?**
 
