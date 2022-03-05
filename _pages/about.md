@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Chiara. I'm a policy advisor focusing on the benefits and risks of AI on disinformation, as well as non-regulatory approaches to countering the spread of online disinformation. 
+Hi, I'm Chiara. I'm a policy advisor working on non-regulatory approaches to countering the spread of online disinformation, as well as the opportunities and risks of AI on disinformation. 
 
 Prior to that, I worked on improving collaborations between science and policy actors to contribute to the development of evidence-based policies. 
 
