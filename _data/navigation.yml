@@ -7,13 +7,13 @@ main:
 #    url: /talks/    
 
 #  - title: "Teaching"
-#    url: /teaching/    
+#    url: /teaching/   
+
+  - title: "Blog"
+    url: /year-archive/
     
   - title: "Fun"
     url: /portfolio/
-        
-  - title: "Blog"
-    url: /year-archive/
     
 #  - title: "CV"
 #    url: /cv/
