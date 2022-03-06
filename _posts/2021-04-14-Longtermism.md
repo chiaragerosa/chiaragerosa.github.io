@@ -8,7 +8,7 @@ tags:
   - ethics
 ---
 
-*A short piece on longtermism I wrote for an internship application in Spring 2021. I was to respond to one of the two prompts provided in no more than 60 minutes. This piece has not been edited since submitting the application.*
+*A short piece on longtermism I wrote for an internship application in Spring 2021. I was to respond to one of the two prompts provided in no more than 60 minutes. This has not been edited since submitting the application.*
 
 Chosen prompt: Some argue that longtermism is not possible because you cannot know enough about the long-term effects of your actions to act with confidence. What do you think about that?
 ------
