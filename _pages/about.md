@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Chiara. I'm a policy advisor working on non-regulatory approaches to countering the spread of online disinformation, as well as the opportunities and risks of AI on disinformation. 
+Hi, I'm Chiara. I'm a policy advisor working on security and online harms. 
 
-Prior to that, I worked on improving collaborations between science and policy actors to contribute to the development of evidence-based policies. 
+Prior to that, I did some research on AI and international security and worked on improving collaborations between science and policy actors to contribute to the development of evidence-based policies. 
 
 Aside from policy, I'm interested in evolutionary psychology and like to think about and discuss social dynamics and human relationships.
 
