@@ -5,7 +5,7 @@ permalink: /posts/2022/05/foundationandlongtermism/
 tags:
   - longtermism
   - ethics
-  - fiction
+  - sci fi
 ---
 
 *I wrote this to my partner on the tube to work one morning.*
