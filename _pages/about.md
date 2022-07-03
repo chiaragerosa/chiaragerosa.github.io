@@ -10,12 +10,12 @@ redirect_from:
 
 Hi, I'm Chiara. I'm a policy advisor working on security and online harms. 
 
-Prior to that, I did some research on AI and international security and worked on improving collaborations between science and policy actors to contribute to the development of evidence-based policies. 
+Prior to that, I did some research at the intersection of AI and international security and worked on improving collaborations between science and policy actors to contribute to the development of evidence-based policies. 
 
-Aside from policy, I'm interested in evolutionary psychology and like to think about and discuss social dynamics and human relationships.
+Aside from policy / emtech, I'm interested in evolutionary psychology and like to think about and discuss social dynamics and human relationships.
 
-I also enjoy cooking, swimming, muay thai, writing, dancing and exploring with my friends. I've recently also picked up pole dancing and mixing music.
+I also enjoy cooking, swimming, muay thai, writing, raving and exploring with my friends. I've recently also picked up pole dancing and mixing music.
 
 I grew up in Dubai, Bali and Hong Kong before doing a BSc in Political Science and International Relations at Università Cattolica in Milan and an MSc in Security Studies at University College London.
 
-This website is a mix of professional and personal, to give you a flavour of who I am and what I'm interested in. 
+This website is a mix of professional and personal, to give you a full(er) picture of who I am. 
