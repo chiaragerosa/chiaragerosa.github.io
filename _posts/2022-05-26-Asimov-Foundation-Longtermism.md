@@ -1,5 +1,5 @@
 ---
-title: 'Isaac Asimov's Foundation & Longtermism'
+title: 'Longtermism x _Foundation_ by Isaac Asimov'
 date: 2022-05-26
 permalink: /posts/2022/05/foundationandlongtermism/
 tags:
