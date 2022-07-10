@@ -8,7 +8,7 @@ tags:
   - poetry
 ---
 
-*This is a poem I wrote in 2016, after reading Nick Bostrom's [Are You Living in a Simulation?](https://www.simulation-argument.com/simulation) paper for the first time.*
+*This is a poem I wrote in 2016, after reading Nick Bostrom's [Are You Living in a Simulation?](https://www.simulation-argument.com/simulation) for the first time.*
 
 ------
 
