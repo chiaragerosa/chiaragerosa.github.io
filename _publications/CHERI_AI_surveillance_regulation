@@ -1,0 +1,31 @@
+---
+title: "The Implications of EU and Chinese Regulation on the Development AI-powered Surveillance: A Brief Overview"
+collection: publications
+permalink: /publications/2021-09-01_CHERI_AI_surveillance_regulation
+excerpt: 'This is a brief comparison of EU and Chinese AI surveillance regulation, with a focus on their different approaches to AI ethics and data privacy. I also draw out the implications for the development of AI surveillance systems. This report was written during the Swiss Existential Risk Initiative (CHERI) Summer Research Program. CHERI is a six-week research program for bachelor, master and PhD students to develop projects on the mitigation of global catastrophic risks - events that could curtail the future of humanity.'
+date: 2021-09-01
+venue: 'Swiss Existential Risk Initiative (CHERI)'
+paperurl: '/files/CHERI_AI_surveillance.pdf'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+**Executive Summary**
+
+Recent advances in artificial intelligence (AI) have created strong incentives for countries to develop governance strategies to maximize the potential benefits of AI technologies, while also mitigating their risks. At present, 60 countries have released AI policy documents. Yet given its increasing development and proliferation, especially for public security purposes, issues concerning AI-powered surveillance are fairly neglected in academic literature. Think tank reports that do tackle AI surveillance tend to be extremely US-focused and center on the geopolitics of China’s creeping dominance of global AI surveillance technology. Some comparative literature exists on AI regulation, but many articles focus on single states and there is little on the implications of AI on surveillance. 
+
+This report acts as a brief introduction for those interested in pursuing further research on AI surveillance. Regulations provide the framework to harness technological potential and enact (potentially) digitally repressive policies. The goal of this report is, therefore, to provide a broad understanding of the regulatory frameworks that shape the future trajectory AI surveillance tools; specifically, how EU and Chinese regulations may shape the global development and implementation of AI surveillance technologies. 
+
+To demonstrate the role of EU and Chinese regulations on AI surveillance applications, the report is structured as follows. The first section outlines the risks associated with AI surveillance. The following section explains the rationale behind analyzing EU and Chinese regulation, before proceeding to compare key aspects of EU and Chinese regulation. Regulations that exclusively govern AI surveillance do not currently exist, therefore, the report focuses mainly on data and privacy regulation. The final section assesses the real-life implications of the discussed regulations on the development and application of AI surveillance technologies. The conclusion summarizes the main points of the report and suggests avenues for further exploration. 
+
+The research for this report was guided by the following questions: 
+1) To what extent are China and the EU setting regulatory norms on the governance of AI surveillance systems?
+2) What effects might Chinese and EU regulation have on the application of AI surveillance systems in the long-term?
+
+The key findings of this report are as follows:
+* Both the EU and China focus on economic growth in their AI regulations, but there is a stark difference when it comes to utilizing AI surveillance for matters of national security.
+* There are large differences between de jure and de facto regulation in China, meaning that privacy protections are unlikely to apply to state surveillance.  
+* The EU’s recent AI regulation may provide too large of a scope for it to be effective at restricting the development of “high-risk” AI surveillance applications.
+* The value in comparing the EU and China actors stems from their norm-setting and regulatory power.
+** We can already observe China’s AI surveillance technology being exported around the world, which may have implications for how receiving countries carry out domestic surveillance practices.
+
+
+[View paper here](/files/CHERI_AI_surveillance.pdf)
