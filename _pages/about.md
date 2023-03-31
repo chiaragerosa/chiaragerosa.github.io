@@ -18,4 +18,4 @@ I also enjoy cooking, swimming, mixing music, pole dance, muay thai, writing, ra
 
 I grew up in Dubai, Bali and Hong Kong before doing a BSc in Political Science and International Relations at Università Cattolica in Milan and an MSc in Security Studies at University College London.
 
-This website aims to be a mix of professional and personal, to give you a full picture of who I am - but I admit I don't keep it as up-to-date as I would like. 
+This website aims to be a mix of professional and personal, to give you a full picture of who I am. But I admit - I don't keep it as up-to-date as I would like. 
