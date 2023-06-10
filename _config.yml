@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Chiara Gerosa"
   avatar           : "chiara.jpg"
-  bio              : "AI Policy. <br> Trying to do good, understand things, and have fun. <br> This is my personal website."
+  bio              : "AI Policy. <br> Trying to do good, understand things, and have fun."
   location         : "London, UK"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Chiara-Gerosa-2"
+  researchgate     : #"https://www.researchgate.net/profile/Chiara-Gerosa-2"
   uri              :
   bitbucket        :
   codepen          :
